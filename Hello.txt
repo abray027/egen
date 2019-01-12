@@ -4,4 +4,6 @@ Enjoy Git !
 
 
 This is from new_branch
+Now this is change 1
 
+This is change 2
