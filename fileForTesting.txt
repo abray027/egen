@@ -4,7 +4,9 @@ THis is line number 2
 this change in from feature branch 1
 new line added from the server
 
+
 This change in from f2 but from the server
 More from server
+more from local
 this change in from f2 but from Local
 
